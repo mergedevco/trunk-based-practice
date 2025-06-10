@@ -1,1 +1,5 @@
+
 Contenido que va a generar conflictos
+
+error por versions distintas
+
